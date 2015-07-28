@@ -1,6 +1,7 @@
 # Arch-Linux-rMBP
 A simple guide to help you install Arch on your Retina Mac Book Pro
 I looked at Jorisvandijk.com for help so credit to him/her.
+This is Not finished I will write a script that does all of this for you.
 
 1) Create a Usb/Cd install disk with Arch <br>
 2) Boot Arch using the option key and selecting Arch Efi. Once it's finished
